@@ -3,6 +3,8 @@
     background-color: #4b3219; /* Color marrón */
     color: white; /* Color del texto */
     padding: 50px 0; /* Añadir un poco de relleno para el espaciado */
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 /* Estilo para la información de contacto */

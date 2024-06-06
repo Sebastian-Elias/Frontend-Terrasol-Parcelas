@@ -6,7 +6,7 @@
     <title>Nosotros</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
     <div id="fb-root"></div>
-    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <link rel="stylesheet" href="css/about.css" >
   </head>
 <body>
@@ -30,9 +30,11 @@
             <div class="us-rs">
                 <h3 class="us-rs-title">Nuestras redes sociales</h3>
                 <div class="rs-icon">
-                <a href="https://web.facebook.com/tuparcelaenelsurdechile?mibextid=ZbWKwL&_rdc=1&_rdr" class="rs-link" target="_blank"><img src="img/icon-facebook.png" alt="">
+                <a href="https://web.facebook.com/tuparcelaenelsurdechile?mibextid=ZbWKwL&_rdc=1&_rdr" class="rs-link" target="_blank" rel="noopener noreferrer">
+                <i class="fa-brands fa-facebook"></i>
                 </a>
-                <a href="https://www.instagram.com/invierte_en_terrenos/" class="rs-link" target="_blank"><img src="img/icon-instagram.png" alt="">
+                <a href="https://www.instagram.com/invierte_en_terrenos/" class="rs-link" target="_blank" rel="noopener noreferrer">
+                <i class="fa-brands fa-square-instagram"></i>
                 </a>
                 </div><!-- cierra rs-icon -->
     </div><!-- cierra us-rs -->
